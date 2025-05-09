@@ -1,0 +1,38 @@
+header{
+    background-color: #DAB88B;
+    margin: -8px;
+    padding: 25px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+body{
+    background-color: #F3E9DD;
+    text-align: center;
+    
+    width: 100%;
+}
+footer{
+    background-color: #B7CADB;
+    margin: -8px;
+    padding: 3px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+h1 {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+#branco{
+    color: #FDF6EC;
+}
+#marrom{
+    color: #AB886D;
+}
+#azul{
+    color: #295F98;
+}
