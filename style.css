@@ -10,8 +10,8 @@ header{
 body{
     background-color: #F3E9DD;
     text-align: center;
-    
-    width: 100%;
+    padding-top: 100px;
+    width: 99%;
 }
 footer{
     background-color: #B7CADB;
@@ -26,6 +26,17 @@ h1 {
     font-family: "Space Mono", monospace;
     font-weight: 400;
     font-style: normal;
+
+}
+p {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: bold;
+}
+li {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: bold;
 }
 #branco{
     color: #FDF6EC;
